@@ -1,3 +1,4 @@
+# Reporte de bugs
 
 ---
 
@@ -9,9 +10,7 @@ assignees: ""
 
 ---
 
-## Reporte de bugs
-
-### Descripción
+## Descripción
 
 Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
@@ -38,4 +37,4 @@ Si es posible, añade capturas de pantalla o registros de errores.
 
 ### Información adicional
 
-Cualquier otra información relevante.
+Cualquier otra información relevante
